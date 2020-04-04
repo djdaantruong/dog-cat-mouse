@@ -1,7 +1,7 @@
-function Mouse(arguments) {
+function Mouse(name) {
 	// body...
 	this.name = name;
-	this.dead = fails;
+	this.isDead = false;
 }
 module.exports = Mouse;
 //hehe
